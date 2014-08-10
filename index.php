@@ -16,4 +16,4 @@ echo " probando un  tercer intento de commit ;)";
 
 echo " es decir que puede hacer unos  cuantos cambios aqui antes de modificar el de github y guardarlo en github tambien";
 
-echo 'y luego poder unirlo con el que esta en el github y de forma viceversa :D';
+echo 'y luego poder unirlo con el que esta en el github y de forma viceversa :D'; // probando
