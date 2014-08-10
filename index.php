@@ -19,3 +19,4 @@ echo " es decir que puede hacer unos  cuantos cambios aqui antes de modificar el
 echo 'y luego poder unirlo con el que esta en el github y de forma viceversa :D'; // probando
 
 //como que no puedo darle merge cuando quiera :S
+//Modificando de nuevo
